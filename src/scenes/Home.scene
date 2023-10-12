@@ -1,0 +1,92 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Home",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "87399ced-8c38-4d41-b16d-67d9b51228d7",
+            "label": "title",
+            "texture": {
+                "key": "title"
+            },
+            "x": 960,
+            "y": 363,
+            "scaleX": 2.0685050038459547,
+            "scaleY": 2.0685050038459547
+        },
+        {
+            "type": "Text",
+            "id": "1381f889-853f-4c88-8ccd-7d402a5abb41",
+            "label": "txt_tip",
+            "scope": "PUBLIC",
+            "x": 960,
+            "y": 691,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "Go&Stop 영어학습법 소개",
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "40px",
+            "color": "#000000ff",
+            "stroke": "#1927fcff",
+            "strokeThickness": 3,
+            "shadow.stroke": true
+        },
+        {
+            "type": "Text",
+            "id": "3e75cdd7-4641-4b2d-a4fc-47ec56ad9838",
+            "label": "txt_start",
+            "scope": "PUBLIC",
+            "x": 960,
+            "y": 878,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "START",
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "80px",
+            "color": "#000000ff",
+            "stroke": "#1927fcff",
+            "strokeThickness": 3,
+            "shadow.stroke": true
+        },
+        {
+            "type": "Rectangle",
+            "id": "a5bda080-2343-4e3d-b447-3da8297e48d5",
+            "label": "rectangle",
+            "x": 958,
+            "y": 876,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 300,
+            "height": 100
+        },
+        {
+            "type": "Rectangle",
+            "id": "c41eb5cf-b7f3-482f-ac1e-82052048c98b",
+            "label": "rectangle_1",
+            "x": 960,
+            "y": 692,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 500,
+            "height": 80
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

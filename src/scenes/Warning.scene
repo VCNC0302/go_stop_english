@@ -1,0 +1,96 @@
+{
+    "id": "b9a3daa8-5c89-4ea9-a584-a866325db951",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Warning",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "739bf155-dfb1-43c2-bee1-5f6d4ec3f8ad",
+            "label": "rectangle_2",
+            "x": 960,
+            "y": 540,
+            "isFilled": true,
+            "fillColor": "#4a4a4a",
+            "fillAlpha": 0.8,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "type": "Rectangle",
+            "id": "f5f46981-da8d-4b2d-85cf-498c8b30e966",
+            "label": "rect",
+            "x": 960,
+            "y": 540,
+            "isFilled": true,
+            "fillColor": "#ffffff",
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 800,
+            "height": 700
+        },
+        {
+            "type": "Text",
+            "id": "f2d8154e-f4ad-4e97-9c47-f00710af311a",
+            "label": "txt_msg",
+            "x": 960,
+            "y": 550,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "Stop 카드를 먼저 선택하셨습니다.\n\nGo 카드를 먼저 선택해 주십시오.",
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "40px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Text",
+            "id": "b217504d-9a89-411b-acd7-64973a717bc3",
+            "label": "txt_ok",
+            "scope": "PUBLIC",
+            "x": 903,
+            "y": 726,
+            "text": "확인",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff",
+            "stroke": "#1927fcff",
+            "strokeThickness": 2
+        },
+        {
+            "type": "Image",
+            "id": "467a9c5d-b1ef-45fa-a676-02f903be0611",
+            "label": "warning",
+            "texture": {
+                "key": "warning"
+            },
+            "x": 960,
+            "y": 306
+        },
+        {
+            "type": "Rectangle",
+            "id": "3c1ffc75-e05e-4645-add0-e6ba540fa109",
+            "label": "rectangle_3",
+            "x": 960,
+            "y": 760,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 150,
+            "height": 80
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

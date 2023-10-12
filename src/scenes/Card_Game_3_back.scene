@@ -1,0 +1,351 @@
+{
+    "id": "87b8cee3-fd3e-4050-9952-285edf8fdbba",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Card_Game_3_back",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "887f693d-7f81-4460-88c3-cb9a36b16b66",
+            "label": "card_black",
+            "texture": {
+                "key": "card_black"
+            },
+            "x": 189,
+            "y": 648,
+            "scaleX": 1.4973695751198903,
+            "scaleY": 1.4973695751198903
+        },
+        {
+            "type": "Text",
+            "id": "37f24017-0264-47b2-9f73-7a26ca6b9963",
+            "label": "txt_level",
+            "x": 189,
+            "y": 286,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "Level 1",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "50px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Text",
+            "id": "ed8274d9-53d3-4481-a405-00d62c788631",
+            "label": "txt_day",
+            "x": 189,
+            "y": 386,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "Day 3",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "50px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Image",
+            "id": "d2e7bf5c-c969-4845-9239-592a0c1de2cc",
+            "label": "btn_back",
+            "scope": "PUBLIC",
+            "texture": {
+                "key": "back"
+            },
+            "x": 143,
+            "y": 108,
+            "scaleX": 1.2080753993697175,
+            "scaleY": 1.2080753993697175
+        },
+        {
+            "type": "Ellipse",
+            "id": "51d9890a-f6d9-4bd8-839d-d595c7f3fa6e",
+            "label": "ellipse_2",
+            "x": 147,
+            "y": 107,
+            "scaleX": 0.9953617173125286,
+            "scaleY": 0.9953617173125286,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Rectangle",
+            "id": "ff67b785-7f2b-4043-b46c-fc44f11e152e",
+            "label": "rectangle_1",
+            "x": 1120,
+            "y": 120,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 600,
+            "height": 100
+        },
+        {
+            "type": "Text",
+            "id": "46444a42-6507-4fae-9a16-5ab9e600b949",
+            "label": "txt_time",
+            "scope": "PUBLIC",
+            "x": 1120,
+            "y": 128,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "00 : 00",
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "50px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Image",
+            "id": "678dd9a9-d4fe-44c6-9891-59d78eea642e",
+            "label": "card_6_2",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1407,
+            "y": 726
+        },
+        {
+            "type": "Image",
+            "id": "17e7cb93-c3a1-4a0a-a7aa-e8b8c36c2876",
+            "label": "card_4_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1043,
+            "y": 466
+        },
+        {
+            "type": "Image",
+            "id": "516e2d9d-e42e-4bef-84fc-cc751730508d",
+            "label": "card_1_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 497,
+            "y": 466
+        },
+        {
+            "type": "Image",
+            "id": "ab50e616-b9ea-4a62-bcb2-4f63abb44daf",
+            "label": "card_2_2",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 679,
+            "y": 726
+        },
+        {
+            "type": "Image",
+            "id": "c489cb81-14c7-4027-919d-87443ae7df50",
+            "label": "card_5_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1225,
+            "y": 466
+        },
+        {
+            "type": "Image",
+            "id": "e2e4e202-b71b-4ebd-a45a-c926ac807f56",
+            "label": "card_5_2",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1225,
+            "y": 726
+        },
+        {
+            "type": "Image",
+            "id": "b44dd2e9-2e41-4de1-aefb-745f19cd87c7",
+            "label": "card_4_2",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1043,
+            "y": 726
+        },
+        {
+            "type": "Image",
+            "id": "fabc613e-8e8b-4cd7-8498-3008129fdfc5",
+            "label": "card_6_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1407,
+            "y": 466
+        },
+        {
+            "type": "Image",
+            "id": "5ed83808-51d4-494f-8fe7-98791f65787d",
+            "label": "card_1_2",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 497,
+            "y": 726
+        },
+        {
+            "type": "Image",
+            "id": "9d2cf54c-0471-4b8f-afd7-e1f0ae85f862",
+            "label": "card_3_2",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 861,
+            "y": 726
+        },
+        {
+            "type": "Image",
+            "id": "9afbd65a-a93e-4ccd-8cf8-d321d74e9d82",
+            "label": "card_2_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 679,
+            "y": 466
+        },
+        {
+            "type": "Image",
+            "id": "c0f1f433-4250-4f8d-ba16-3f0de0f5829a",
+            "label": "card_3_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 861,
+            "y": 466
+        },
+        {
+            "type": "Rectangle",
+            "id": "7dd4e2ae-c1dc-454e-bfdf-9aee28d41219",
+            "label": "rectangle",
+            "x": 1120,
+            "y": 997,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 600,
+            "height": 100
+        },
+        {
+            "type": "Text",
+            "id": "23c384e6-f46e-49cc-a2b5-7f2124936cb7",
+            "label": "txt_point",
+            "scope": "PUBLIC",
+            "x": 1120,
+            "y": 999,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "Point : 0",
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "50px",
+            "color": "#000000ff",
+            "wordWrapWidth": 400,
+            "wordWrapUseAdvanced": true
+        },
+        {
+            "type": "Rectangle",
+            "id": "e738ab32-b81e-45d2-8250-30bcd5c4f8de",
+            "label": "rectangle_2",
+            "x": 183,
+            "y": 283,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 200,
+            "height": 80
+        },
+        {
+            "type": "Rectangle",
+            "id": "668fa018-27e2-4750-ae44-cbe290c186cb",
+            "label": "rectangle_3",
+            "x": 183,
+            "y": 387,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 200,
+            "height": 80
+        },
+        {
+            "type": "Text",
+            "id": "b3242a12-3320-45b3-a099-29297109e0ac",
+            "label": "txt_pattern",
+            "scope": "PUBLIC",
+            "x": 193,
+            "y": 652,
+            "originX": 0.5,
+            "originY": 0.5,
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "30px",
+            "color": "#fc1414ff",
+            "stroke": "#ffffffff",
+            "strokeThickness": 2,
+            "wordWrapWidth": 400,
+            "wordWrapUseAdvanced": true
+        },
+        {
+            "type": "Image",
+            "id": "2ed6172e-b465-4604-a385-da963bbd72af",
+            "label": "card_7_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1589,
+            "y": 466
+        },
+        {
+            "type": "Image",
+            "id": "b36b9d2b-b6f9-43da-9871-ae9fca44e9a8",
+            "label": "card",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1589,
+            "y": 726
+        },
+        {
+            "type": "Image",
+            "id": "e7b3e2d1-6afa-4d49-bee9-4ead2d945222",
+            "label": "card_8_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1771,
+            "y": 466
+        },
+        {
+            "type": "Image",
+            "id": "4ca418a0-e6f1-46bf-9dc8-4c32ffd88eeb",
+            "label": "card_8_2",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1771,
+            "y": 726
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    },
+    "lists": [
+        {
+            "id": "6500692c-ed7b-45dc-99da-9aa1362721e5",
+            "label": "cards",
+            "objectIds": [
+                "678dd9a9-d4fe-44c6-9891-59d78eea642e",
+                "17e7cb93-c3a1-4a0a-a7aa-e8b8c36c2876",
+                "516e2d9d-e42e-4bef-84fc-cc751730508d",
+                "ab50e616-b9ea-4a62-bcb2-4f63abb44daf",
+                "c489cb81-14c7-4027-919d-87443ae7df50",
+                "e2e4e202-b71b-4ebd-a45a-c926ac807f56",
+                "b44dd2e9-2e41-4de1-aefb-745f19cd87c7",
+                "fabc613e-8e8b-4cd7-8498-3008129fdfc5",
+                "5ed83808-51d4-494f-8fe7-98791f65787d",
+                "9d2cf54c-0471-4b8f-afd7-e1f0ae85f862",
+                "9afbd65a-a93e-4ccd-8cf8-d321d74e9d82",
+                "c0f1f433-4250-4f8d-ba16-3f0de0f5829a",
+                "b36b9d2b-b6f9-43da-9871-ae9fca44e9a8",
+                "2ed6172e-b465-4604-a385-da963bbd72af",
+                "e7b3e2d1-6afa-4d49-bee9-4ead2d945222",
+                "4ca418a0-e6f1-46bf-9dc8-4c32ffd88eeb"
+            ]
+        }
+    ]
+}

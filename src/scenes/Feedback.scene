@@ -1,0 +1,86 @@
+{
+    "id": "8830fde9-f52e-455c-958b-c0b2e377d644",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Feedback",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "ef3ed150-5a3d-4d75-b3d4-f728873f53f8",
+            "label": "rectangle_2",
+            "x": 960,
+            "y": 538,
+            "isFilled": true,
+            "fillColor": "#4a4a4a",
+            "fillAlpha": 0.8,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "type": "Rectangle",
+            "id": "254e6b67-1425-41e0-9c3e-c67d107d047e",
+            "label": "rect",
+            "x": 960,
+            "y": 540,
+            "isFilled": true,
+            "fillColor": "#ffffff",
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 800,
+            "height": 700
+        },
+        {
+            "type": "Text",
+            "id": "2b05caf3-2eaf-4daa-ac1e-48c33b4cf373",
+            "label": "txt_msg",
+            "scope": "PUBLIC",
+            "x": 960,
+            "y": 485,
+            "originX": 0.5,
+            "originY": 0.5,
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Text",
+            "id": "20e9b80d-d6b1-4abd-936e-34b07274d0da",
+            "label": "txt_ok",
+            "scope": "PUBLIC",
+            "x": 903,
+            "y": 753,
+            "text": "확인",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff",
+            "stroke": "#1927fcff",
+            "strokeThickness": 3
+        },
+        {
+            "type": "Rectangle",
+            "id": "1cabc869-8252-4461-9036-b0da768edc47",
+            "label": "rectangle_3",
+            "x": 960,
+            "y": 787.8961793223158,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 150,
+            "height": 80
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

@@ -1,0 +1,140 @@
+{
+  "day1": {
+    "pattern": "I was happy to ~",
+    "content": "‘~해서 좋았다’는 to 부정사 (to+동사원형)를 이용하여 to 부정사의 부사적 용법 중  원인의 의미로 써서 활용할 수 있다. 즉, ‘I was happy’는 “나는 행복했다’이고 to+동사원형은 ‘~해서’의 의미로, 다음과 같이 실제로 여러 상황에서 요긴하게 쓸 수 있다.\n\n1. 난생 처음 운전해서 기분 좋았다.\nI was happy to drive for the first time in my life.\n2. 다른 사람들을 도와줘서 기분 좋았다.\nI was happy to help others.\n3. 나는 만점을 받아서 기분 좋았다.\nI was happy to get a perfect score.",
+    "words": [
+      {
+        "do": "drink",
+        "stop": "some coffee",
+        "sentence_en": "I was happy to drink some coffee",
+        "sentence_ko": "나는 커피를 마셔서 행복했다"
+      },
+      {
+        "do": "play",
+        "stop": "the computer games",
+        "sentence_en": "I was happy to play the computer games",
+        "sentence_ko": "나는 컴퓨터 게임을 해서 행복했다"
+      },
+      {
+        "do": "eat",
+        "stop": "Chinese food",
+        "sentence_en": "I was happy to eat Chinese food",
+        "sentence_ko": "나는 중국 음식을 먹어서 행복했다"
+      },
+      {
+        "do": "watch",
+        "stop": "TV",
+        "sentence_en": "I was happy to watch TV",
+        "sentence_ko": "나는 티비를 봐서 행복했다"
+      },
+      {
+        "do": "buy",
+        "stop": "my own cell phone",
+        "sentence_en": "I was happy to buy my own cell phone",
+        "sentence_ko": "나는 내 핸드폰을 사서 행복했다"
+      },
+      {
+        "do": "fix",
+        "stop": "my computer",
+        "sentence_en": "I was happy to fix my computer",
+        "sentence_ko": "나는 내 컴퓨터를 고쳐서 행복했다"
+      }
+    ]
+  },
+  "day2": {
+    "pattern": "I am planning to ~",
+    "content": "Plan은 ‘계획, 계획하다’라는 뜻이다. I am planning to+동사원형은 ‘~할 계획이다’ 라는 것을 의미하며 I am planning to learn English는 ‘영어를 배울 계획이다’라는 뜻이 된다.\n\n1. 학교로 돌아갈 계획이야.\nI’m planning to go back to school.\n2. 컴퓨터를 고치고 더 빠르게 만들 계획이다.\nI’m planning to fix my computer and make it faster.\n3. 서울로 이사하고 직업을 구할 계획이다.\nI’m planning to move to Seoul and find a job.",
+    "words": [
+      {
+        "do": "break up with",
+        "stop": "my boyfriend ",
+        "sentence_en": "I am planning to break up with my boyfriend ",
+        "sentence_ko": "나는 내 남자 친구와 헤어질 계획이다"
+      },
+      {
+        "do": "find",
+        "stop": "something expensive",
+        "sentence_en": "I am planning to find something expensive",
+        "sentence_ko": "나는 비싼 것을 찾을 계획이다"
+      },
+      {
+        "do": "pass",
+        "stop": "the exam",
+        "sentence_en": "I am planning to pass the exam",
+        "sentence_ko": "나는 시험을 통과할 계획이다"
+      },
+      {
+        "do": "play",
+        "stop": "the guitar",
+        "sentence_en": "I am planning to play the guitar",
+        "sentence_ko": "나는 기타를 연주할 계획이다"
+      },
+      {
+        "do": "go (to)",
+        "stop": "school",
+        "sentence_en": "I am planning to go to school",
+        "sentence_ko": "나는 학교에 갈 계획이다"
+      },
+      {
+        "do": "start",
+        "stop": "my own project",
+        "sentence_en": "I am planning to start my own project",
+        "sentence_ko": "나는 내 자신의 프로젝트를 시작할 계획이다"
+      },
+      {
+        "do": "take",
+        "stop": "a rest"
+      }
+    ]
+  },
+  "day3": {
+    "pattern": "I was about to ~",
+    "content": "Be about to+동사원형은 ‘막 ~하려고 하다’는 뜻이다. I was about to sleep은 ‘막 자려던 참이다’라는 뜻이 된다.\n\n1. 나도 같은 질문을 그에게 하려던 참이었다.\nI was about to ask him the same question.\n2. 특별한 것을 막 목격하려던 참이었다.\nI was about to witness something special.\n3. 비행기에 막 탑승하려던 참이었다.\nI was about to board an airplane.\n4. 바보처럼 행동했던 것에 대해 그녀에게 미안하다고 막 말하려던 참이었다.\nI was about to tell her that I was sorry for acting like a fool.",
+    "words": [
+      {
+        "do": "do",
+        "stop": "my homework",
+        "sentence_en": "I was about to do my homework",
+        "sentence_ko": " 내 숙제를 하려던 참이었다"
+      },
+      {
+        "do": "see",
+        "stop": "horror movies",
+        "sentence_en": "I was about to see horror movies",
+        "sentence_ko": " 공포 영화를 보려던 참이었다"
+      },
+      {
+        "do": "meet",
+        "stop": "my friend",
+        "sentence_en": "I was about to meet my friend",
+        "sentence_ko": " 내 친구를 만나려던 참이었다"
+      },
+      {
+        "do": "read",
+        "stop": "the book",
+        "sentence_en": "I was about to read the book",
+        "sentence_ko": " 책을 읽으려던 참이었다"
+      },
+      {
+        "do": "play",
+        "stop": "the guitar",
+        "sentence_en": "I was about to play the guitar",
+        "sentence_ko": " 기타를 연주하려던 참이었다"
+      },
+      {
+        "do": "help",
+        "stop": "my friend",
+        "sentence_en": "I was about to help my friend",
+        "sentence_ko": " 내 친구를 도와주려던 참이었다"
+      },
+      {
+        "do": "lose",
+        "stop": "much money"
+      },
+      {
+        "do": "drive",
+        "stop": "my own car"
+      }
+    ]
+  }
+}

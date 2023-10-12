@@ -1,0 +1,377 @@
+{
+    "id": "d8c43d08-71c8-43da-91c0-946ad6538f60",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Card_Game_3",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "ff67b785-7f2b-4043-b46c-fc44f11e152e",
+            "label": "rectangle_1",
+            "x": 1120,
+            "y": 125,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 600,
+            "height": 100
+        },
+        {
+            "type": "Text",
+            "id": "46444a42-6507-4fae-9a16-5ab9e600b949",
+            "label": "txt_time",
+            "scope": "PUBLIC",
+            "x": 1120,
+            "y": 128,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "00 : 00",
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "50px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Image",
+            "id": "678dd9a9-d4fe-44c6-9891-59d78eea642e",
+            "label": "card_6_2",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1407,
+            "y": 718
+        },
+        {
+            "type": "Image",
+            "id": "17e7cb93-c3a1-4a0a-a7aa-e8b8c36c2876",
+            "label": "card_4_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1043,
+            "y": 402.875
+        },
+        {
+            "type": "Image",
+            "id": "516e2d9d-e42e-4bef-84fc-cc751730508d",
+            "label": "card_1_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 497,
+            "y": 402.875
+        },
+        {
+            "type": "Image",
+            "id": "ab50e616-b9ea-4a62-bcb2-4f63abb44daf",
+            "label": "card_2_2",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 679,
+            "y": 718
+        },
+        {
+            "type": "Image",
+            "id": "c489cb81-14c7-4027-919d-87443ae7df50",
+            "label": "card_5_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1225,
+            "y": 402.875
+        },
+        {
+            "type": "Image",
+            "id": "e2e4e202-b71b-4ebd-a45a-c926ac807f56",
+            "label": "card_5_2",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1225,
+            "y": 718
+        },
+        {
+            "type": "Image",
+            "id": "b44dd2e9-2e41-4de1-aefb-745f19cd87c7",
+            "label": "card_4_2",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1043,
+            "y": 718
+        },
+        {
+            "type": "Image",
+            "id": "fabc613e-8e8b-4cd7-8498-3008129fdfc5",
+            "label": "card_6_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1407,
+            "y": 402.875
+        },
+        {
+            "type": "Image",
+            "id": "5ed83808-51d4-494f-8fe7-98791f65787d",
+            "label": "card_1_2",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 497,
+            "y": 718
+        },
+        {
+            "type": "Image",
+            "id": "9d2cf54c-0471-4b8f-afd7-e1f0ae85f862",
+            "label": "card_3_2",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 861,
+            "y": 718
+        },
+        {
+            "type": "Image",
+            "id": "9afbd65a-a93e-4ccd-8cf8-d321d74e9d82",
+            "label": "card_2_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 679,
+            "y": 402.875
+        },
+        {
+            "type": "Image",
+            "id": "c0f1f433-4250-4f8d-ba16-3f0de0f5829a",
+            "label": "card_3_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 861,
+            "y": 402.875
+        },
+        {
+            "type": "Rectangle",
+            "id": "7dd4e2ae-c1dc-454e-bfdf-9aee28d41219",
+            "label": "rectangle",
+            "x": 1120,
+            "y": 997,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 600,
+            "height": 100
+        },
+        {
+            "type": "Text",
+            "id": "23c384e6-f46e-49cc-a2b5-7f2124936cb7",
+            "label": "txt_point",
+            "scope": "PUBLIC",
+            "x": 1120,
+            "y": 999,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "Point : 0",
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "50px",
+            "color": "#000000ff",
+            "wordWrapWidth": 400,
+            "wordWrapUseAdvanced": true
+        },
+        {
+            "type": "Image",
+            "id": "2ed6172e-b465-4604-a385-da963bbd72af",
+            "label": "card_7_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1589,
+            "y": 402.875
+        },
+        {
+            "type": "Image",
+            "id": "b36b9d2b-b6f9-43da-9871-ae9fca44e9a8",
+            "label": "card_7_2",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1589,
+            "y": 718
+        },
+        {
+            "type": "Text",
+            "id": "627d8b4e-8bc4-4656-8f68-723a9917889d",
+            "label": "txt_level",
+            "x": 314,
+            "y": 301,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "Level 3",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "25px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Text",
+            "id": "257d5323-3e2e-4ed3-ad0d-9ba3f3f2fe9b",
+            "label": "txt_",
+            "x": 110,
+            "y": 301,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "Day 3",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "25px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Image",
+            "id": "1f9fa181-efa0-4514-af5e-def1ad079019",
+            "label": "btn_back",
+            "scope": "PUBLIC",
+            "texture": {
+                "key": "back"
+            },
+            "x": 143,
+            "y": 108,
+            "scaleX": 0.9,
+            "scaleY": 0.9
+        },
+        {
+            "type": "Ellipse",
+            "id": "e6f60e3e-7b40-48d6-8b27-ebd8d4ce9ceb",
+            "label": "ellipse_2",
+            "x": 147,
+            "y": 107,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Rectangle",
+            "id": "0fb2ddb6-a7f7-4cf5-9d1a-bc9fdd65a2fe",
+            "label": "rectangle_2",
+            "x": 314,
+            "y": 300,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 100,
+            "height": 50
+        },
+        {
+            "type": "Rectangle",
+            "id": "57851bea-339a-440c-9797-689171d0c1d3",
+            "label": "rectangle_3",
+            "x": 110,
+            "y": 300,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 100,
+            "height": 50
+        },
+        {
+            "type": "Image",
+            "id": "17b75be9-67d9-4279-91aa-865891e03c6d",
+            "label": "card_black",
+            "texture": {
+                "key": "card_black"
+            },
+            "x": 211,
+            "y": 573,
+            "scaleX": 1.6242302781955114,
+            "scaleY": 1.6242302781955114
+        },
+        {
+            "type": "Text",
+            "id": "249f63f3-34e2-45c0-8d37-22c22b219587",
+            "label": "txt_day",
+            "scope": "PUBLIC",
+            "x": 295,
+            "y": 386,
+            "originX": 0.5,
+            "originY": 0.5,
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "18px",
+            "color": "#ffffffff"
+        },
+        {
+            "type": "Text",
+            "id": "b25cf5da-f591-4c6c-8481-c29bc766d56a",
+            "label": "txt_pattern",
+            "scope": "PUBLIC",
+            "x": 212,
+            "y": 441,
+            "originX": 0.5,
+            "originY": 0.5,
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "30px",
+            "color": "#fc1414ff",
+            "stroke": "#ffffffff",
+            "strokeThickness": 2,
+            "wordWrapWidth": 400,
+            "wordWrapUseAdvanced": true
+        },
+        {
+            "type": "Text",
+            "id": "63687a41-84e3-49ec-b447-cca69b26aeb9",
+            "label": "txt_content",
+            "scope": "PUBLIC",
+            "x": 78,
+            "y": 482,
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "14px",
+            "color": "#ffffffff",
+            "wordWrapWidth": 270,
+            "wordWrapUseAdvanced": true
+        },
+        {
+            "type": "Image",
+            "id": "8316c4b5-f20d-4ed8-a728-59ca8fe42585",
+            "label": "card_8_1",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1771,
+            "y": 402.875
+        },
+        {
+            "type": "Image",
+            "id": "11500379-58c6-4b6a-91eb-3c48d8b0ee63",
+            "label": "card",
+            "scope": "PUBLIC",
+            "texture": {},
+            "x": 1771,
+            "y": 718
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    },
+    "lists": [
+        {
+            "id": "6500692c-ed7b-45dc-99da-9aa1362721e5",
+            "label": "cards",
+            "objectIds": [
+                "678dd9a9-d4fe-44c6-9891-59d78eea642e",
+                "17e7cb93-c3a1-4a0a-a7aa-e8b8c36c2876",
+                "516e2d9d-e42e-4bef-84fc-cc751730508d",
+                "ab50e616-b9ea-4a62-bcb2-4f63abb44daf",
+                "c489cb81-14c7-4027-919d-87443ae7df50",
+                "e2e4e202-b71b-4ebd-a45a-c926ac807f56",
+                "b44dd2e9-2e41-4de1-aefb-745f19cd87c7",
+                "fabc613e-8e8b-4cd7-8498-3008129fdfc5",
+                "5ed83808-51d4-494f-8fe7-98791f65787d",
+                "9d2cf54c-0471-4b8f-afd7-e1f0ae85f862",
+                "9afbd65a-a93e-4ccd-8cf8-d321d74e9d82",
+                "c0f1f433-4250-4f8d-ba16-3f0de0f5829a",
+                "b36b9d2b-b6f9-43da-9871-ae9fca44e9a8",
+                "2ed6172e-b465-4604-a385-da963bbd72af",
+                "8316c4b5-f20d-4ed8-a728-59ca8fe42585",
+                "11500379-58c6-4b6a-91eb-3c48d8b0ee63"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "id": "17ddca91-2914-4cff-bf52-389192547436",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Video",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Text",
+            "id": "5603c2de-0352-4d37-87d2-e2b4e318add3",
+            "label": "txt_title",
+            "x": 960,
+            "y": 122,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "게임방법",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Text",
+            "id": "f786f968-3232-4c4b-a0c2-59e40183c6bd",
+            "label": "txt_pattern",
+            "scope": "PUBLIC",
+            "x": 967,
+            "y": 428,
+            "originX": 0.5,
+            "originY": 0.5,
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "40px",
+            "color": "#d20dc1ff",
+            "stroke": "#000000ff",
+            "strokeThickness": 2,
+            "wordWrapWidth": 400,
+            "wordWrapUseAdvanced": true
+        },
+        {
+            "type": "Text",
+            "id": "16e5c08a-62bc-4b73-9bec-3bdab2aaed1d",
+            "label": "txt_content",
+            "scope": "PUBLIC",
+            "x": 772,
+            "y": 508,
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "25px",
+            "color": "#000000ff",
+            "wordWrapWidth": 400,
+            "wordWrapUseAdvanced": true
+        },
+        {
+            "type": "Text",
+            "id": "596fe4ff-9fe5-48ff-928a-c926c8102aff",
+            "label": "txt_next",
+            "scope": "PUBLIC",
+            "x": 960,
+            "y": 935,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "게임시작",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "50px",
+            "color": "#000000ff",
+            "stroke": "#1927fcff",
+            "strokeThickness": 2
+        },
+        {
+            "type": "Ellipse",
+            "id": "6bf79101-1b95-41cc-b174-0d56ecc0c184",
+            "label": "ellipse_1",
+            "x": 928,
+            "y": 1041,
+            "scaleX": 0.20788018266920605,
+            "scaleY": 0.20788018266920605,
+            "fillColor": "#000000",
+            "strokeColor": "#000000",
+            "lineWidth": 20,
+            "isStroked": true,
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Ellipse",
+            "id": "d2a37385-3e37-4dd6-a19b-9a00b5f53dd7",
+            "label": "ellipse",
+            "x": 992,
+            "y": 1041,
+            "scaleX": 0.20788018266920605,
+            "scaleY": 0.20788018266920605,
+            "isFilled": true,
+            "fillColor": "#000000",
+            "strokeColor": "#000000",
+            "lineWidth": 20,
+            "isStroked": true,
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Image",
+            "id": "c454e722-fe1a-4dc4-98b9-3186fdb7acc1",
+            "label": "btn_back",
+            "scope": "PUBLIC",
+            "texture": {
+                "key": "back"
+            },
+            "x": 143,
+            "y": 108,
+            "scaleX": 0.9,
+            "scaleY": 0.9
+        },
+        {
+            "type": "Ellipse",
+            "id": "f8c28a9c-f8a7-4d54-905c-7fe71c086e85",
+            "label": "ellipse_2",
+            "x": 147,
+            "y": 107,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Text",
+            "id": "e45edd74-67b4-4e35-8578-75e82229904a",
+            "label": "txt_title_1",
+            "x": 960,
+            "y": 845,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "* 주어진 시간 안에 Go카드와 Stop카드가 의미가 맞도록 짝을 맞춥니다.",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "30px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Rectangle",
+            "id": "10c56748-6905-46a8-a170-41ba65b12330",
+            "label": "rectangle_2",
+            "x": 960,
+            "y": 500,
+            "isFilled": true,
+            "fillColor": "#6c6c6c",
+            "width": 800,
+            "height": 576
+        },
+        {
+            "type": "Image",
+            "id": "6a826112-c3aa-4102-82df-7825895fe8ae",
+            "label": "btn_play",
+            "scope": "PUBLIC",
+            "texture": {
+                "key": "play"
+            },
+            "x": 960,
+            "y": 493,
+            "scaleX": 0.7708457389626016,
+            "scaleY": 0.7708457389626016
+        },
+        {
+            "type": "Rectangle",
+            "id": "37663a31-8506-4b7d-8c2c-c131803476b3",
+            "label": "rectangle",
+            "x": 960,
+            "y": 932.5,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 220,
+            "height": 80
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

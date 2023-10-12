@@ -1,0 +1,133 @@
+{
+    "id": "986920a7-f77f-4795-b7e8-d81c7e65ce81",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Check",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "def7ea2d-5540-46da-b358-37a5a2127246",
+            "label": "rectangle_4",
+            "x": 960,
+            "y": 540,
+            "isFilled": true,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "type": "Text",
+            "id": "31437bab-e962-49ad-a5ef-8b503b7e4f22",
+            "label": "txt_title",
+            "x": 960,
+            "y": 88,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "정답 체크",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "50px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Text",
+            "id": "3f3c4641-98e5-4d74-8fdd-efd81f43e2f3",
+            "label": "txt_point",
+            "scope": "PUBLIC",
+            "x": 628,
+            "y": 193,
+            "originX": 0.5,
+            "originY": 0.5,
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "30px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Text",
+            "id": "1bf59bdb-9c5a-495a-87d1-63e10aced23e",
+            "label": "txt_time",
+            "scope": "PUBLIC",
+            "x": 1280,
+            "y": 193,
+            "originX": 0.5,
+            "originY": 0.5,
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "30px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Rectangle",
+            "id": "1c3ddf1c-45a3-4287-bb01-2b9770dbddd8",
+            "label": "rectangle",
+            "x": 628,
+            "y": 193,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 400,
+            "height": 80
+        },
+        {
+            "type": "Rectangle",
+            "id": "949e5d80-74cc-47ab-a1b5-8a5677ecdfc8",
+            "label": "rectangle_2",
+            "x": 1280,
+            "y": 193,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 400,
+            "height": 80
+        },
+        {
+            "type": "Rectangle",
+            "id": "0ff4fc23-2fe3-4079-86a2-43f70c7c8c75",
+            "label": "rectangle_3",
+            "x": 961,
+            "y": 607,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 1500,
+            "height": 700
+        },
+        {
+            "type": "Text",
+            "id": "8d725893-33ec-4de0-87ad-81565916504a",
+            "label": "txt_ok",
+            "scope": "PUBLIC",
+            "x": 905,
+            "y": 984,
+            "text": "확인",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff",
+            "stroke": "#1927fcff",
+            "strokeThickness": 2
+        },
+        {
+            "type": "Rectangle",
+            "id": "1f2e30da-a391-4ebc-8409-9fdae458c524",
+            "label": "rectangle_5",
+            "x": 960,
+            "y": 1020,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 150,
+            "height": 80
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

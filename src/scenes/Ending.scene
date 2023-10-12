@@ -1,0 +1,124 @@
+{
+    "id": "c10ff1af-c4b1-4e37-ac38-7d665cdec6f9",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Ending",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Rectangle",
+            "id": "ef3ed150-5a3d-4d75-b3d4-f728873f53f8",
+            "label": "rectangle_2",
+            "x": 960,
+            "y": 538,
+            "isFilled": true,
+            "fillColor": "#4a4a4a",
+            "fillAlpha": 0.8,
+            "width": 1920,
+            "height": 1080
+        },
+        {
+            "type": "Rectangle",
+            "id": "254e6b67-1425-41e0-9c3e-c67d107d047e",
+            "label": "rect",
+            "x": 960,
+            "y": 540,
+            "isFilled": true,
+            "fillColor": "#ffffff",
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 800,
+            "height": 700
+        },
+        {
+            "type": "Text",
+            "id": "2b05caf3-2eaf-4daa-ac1e-48c33b4cf373",
+            "label": "txt_point",
+            "scope": "PUBLIC",
+            "x": 960,
+            "y": 407,
+            "originX": 0.5,
+            "originY": 0.5,
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Text",
+            "id": "784ea3d2-c64a-456f-9dff-7966953cf928",
+            "label": "txt_time",
+            "scope": "PUBLIC",
+            "x": 960,
+            "y": 531,
+            "originX": 0.5,
+            "originY": 0.5,
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Rectangle",
+            "id": "188ace35-158d-4fed-9921-14ea5cd47556",
+            "label": "rectangle_1",
+            "x": 960,
+            "y": 405,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 600,
+            "height": 100
+        },
+        {
+            "type": "Rectangle",
+            "id": "72599fdf-d1ab-4f31-b95d-0f8751ba5a1e",
+            "label": "rectangle",
+            "x": 960,
+            "y": 530,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 600,
+            "height": 100
+        },
+        {
+            "type": "Text",
+            "id": "42680ef0-cfbf-4a42-875e-2bf9b38f48b3",
+            "label": "txt_ok",
+            "scope": "PUBLIC",
+            "x": 903,
+            "y": 753,
+            "text": "확인",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff",
+            "stroke": "#1927fcff",
+            "strokeThickness": 3
+        },
+        {
+            "type": "Rectangle",
+            "id": "568ffef2-1989-461c-a850-d7f2ee6828a2",
+            "label": "rectangle_5",
+            "x": 960,
+            "y": 787.8961793223158,
+            "strokeColor": "#000000",
+            "lineWidth": 5,
+            "isStroked": true,
+            "width": 150,
+            "height": 80
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

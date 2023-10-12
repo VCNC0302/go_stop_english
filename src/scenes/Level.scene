@@ -1,0 +1,148 @@
+{
+    "id": "34f5ce95-d0c0-45ff-948f-586d8b842e95",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Text",
+            "id": "90622c86-dd97-4c5c-8cd2-743edbc6eeb5",
+            "label": "txt_title",
+            "x": 728.5,
+            "y": 248,
+            "text": "Level 선택",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "100px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Image",
+            "id": "f01828f5-47b7-4b2a-bcfe-d3b092a0cc83",
+            "label": "btn_back",
+            "scope": "PUBLIC",
+            "texture": {
+                "key": "back"
+            },
+            "x": 143,
+            "y": 108,
+            "scaleX": 0.9,
+            "scaleY": 0.9
+        },
+        {
+            "type": "Ellipse",
+            "id": "02610efd-eac8-4550-8b85-970afa381f4b",
+            "label": "ellipse_1",
+            "x": 147,
+            "y": 107,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Text",
+            "id": "73527016-c772-4102-a24a-01d20366a4c8",
+            "label": "txt_level_1",
+            "scope": "PUBLIC",
+            "x": 853,
+            "y": 497,
+            "text": "Level 1",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff",
+            "stroke": "#1927fcff",
+            "strokeThickness": 3
+        },
+        {
+            "type": "Text",
+            "id": "f71b3318-3b2d-4037-b04e-0d69afb4e892",
+            "label": "txt_level_2",
+            "scope": "PUBLIC",
+            "x": 852,
+            "y": 690,
+            "alpha": 0.5,
+            "alphaTopLeft": 0.5,
+            "alphaTopRight": 0.5,
+            "alphaBottomLeft": 0.5,
+            "alphaBottomRight": 0.5,
+            "text": "Level 2",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff",
+            "stroke": "#1927fcff",
+            "strokeThickness": 3
+        },
+        {
+            "type": "Text",
+            "id": "24f3cb91-16c6-405b-a772-8b3d36abd222",
+            "label": "txt_level_3",
+            "scope": "PUBLIC",
+            "x": 852,
+            "y": 883,
+            "alpha": 0.5,
+            "alphaTopLeft": 0.5,
+            "alphaTopRight": 0.5,
+            "alphaBottomLeft": 0.5,
+            "alphaBottomRight": 0.5,
+            "text": "Level 3",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff",
+            "stroke": "#1927fcff",
+            "strokeThickness": 3
+        },
+        {
+            "type": "Rectangle",
+            "id": "fdf95635-3001-4ad0-beda-766531e6a1cf",
+            "label": "rectangle_2",
+            "x": 958,
+            "y": 533,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 250,
+            "height": 80
+        },
+        {
+            "type": "Rectangle",
+            "id": "d7d95eff-abe8-4ab7-8c2d-65403097d41f",
+            "label": "rectangle",
+            "x": 960,
+            "y": 725,
+            "alpha": 0.5,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 250,
+            "height": 80
+        },
+        {
+            "type": "Rectangle",
+            "id": "9af34f8b-3429-4a8c-9c4a-09572270bb91",
+            "label": "rectangle_1",
+            "x": 960,
+            "y": 919,
+            "alpha": 0.5,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 250,
+            "height": 80
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

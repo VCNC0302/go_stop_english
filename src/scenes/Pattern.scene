@@ -1,0 +1,174 @@
+{
+    "id": "07e18c89-bb6a-4f4f-a322-079522ca4748",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Pattern",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "44d462df-1798-4895-bb61-47ea1c581fa2",
+            "label": "card_black",
+            "texture": {
+                "key": "card_black"
+            },
+            "x": 960,
+            "y": 520,
+            "scaleX": 2.2254646277924124,
+            "scaleY": 2.2254646277924124
+        },
+        {
+            "type": "Text",
+            "id": "5603c2de-0352-4d37-87d2-e2b4e318add3",
+            "label": "txt_title",
+            "x": 960,
+            "y": 122,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "패턴 카드 소개",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Text",
+            "id": "5ed6cab9-0715-4dd6-8331-35ec32840bda",
+            "label": "txt_day",
+            "scope": "PUBLIC",
+            "x": 1059,
+            "y": 264,
+            "originX": 0.5,
+            "originY": 0.5,
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "30px",
+            "color": "#ffffffff"
+        },
+        {
+            "type": "Text",
+            "id": "f786f968-3232-4c4b-a0c2-59e40183c6bd",
+            "label": "txt_pattern",
+            "scope": "PUBLIC",
+            "x": 967,
+            "y": 335,
+            "originX": 0.5,
+            "originY": 0.5,
+            "align": "center",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "40px",
+            "color": "#fc1414ff",
+            "stroke": "#ffffffff",
+            "strokeThickness": 2,
+            "wordWrapWidth": 400,
+            "wordWrapUseAdvanced": true
+        },
+        {
+            "type": "Text",
+            "id": "16e5c08a-62bc-4b73-9bec-3bdab2aaed1d",
+            "label": "txt_content",
+            "scope": "PUBLIC",
+            "x": 772,
+            "y": 415,
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "20px",
+            "color": "#ffffffff",
+            "wordWrapWidth": 400,
+            "wordWrapUseAdvanced": true
+        },
+        {
+            "type": "Rectangle",
+            "id": "e38c0740-1836-4c59-bb28-d7285f28a091",
+            "label": "rectangle_1",
+            "x": 960,
+            "y": 932.5,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 130,
+            "height": 70
+        },
+        {
+            "type": "Text",
+            "id": "596fe4ff-9fe5-48ff-928a-c926c8102aff",
+            "label": "txt_next",
+            "scope": "PUBLIC",
+            "x": 960,
+            "y": 932.5,
+            "originX": 0.5,
+            "originY": 0.5,
+            "text": "다음",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "50px",
+            "color": "#000000ff",
+            "stroke": "#1927fcff",
+            "strokeThickness": 2
+        },
+        {
+            "type": "Ellipse",
+            "id": "6bf79101-1b95-41cc-b174-0d56ecc0c184",
+            "label": "ellipse_1",
+            "x": 928,
+            "y": 1041,
+            "scaleX": 0.20788018266920605,
+            "scaleY": 0.20788018266920605,
+            "isFilled": true,
+            "fillColor": "#000000",
+            "strokeColor": "#000000",
+            "lineWidth": 20,
+            "isStroked": true,
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Ellipse",
+            "id": "d2a37385-3e37-4dd6-a19b-9a00b5f53dd7",
+            "label": "ellipse",
+            "x": 992,
+            "y": 1041,
+            "scaleX": 0.20788018266920605,
+            "scaleY": 0.20788018266920605,
+            "strokeColor": "#000000",
+            "lineWidth": 20,
+            "isStroked": true,
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Image",
+            "id": "c454e722-fe1a-4dc4-98b9-3186fdb7acc1",
+            "label": "btn_back",
+            "scope": "PUBLIC",
+            "texture": {
+                "key": "back"
+            },
+            "x": 143,
+            "y": 108,
+            "scaleX": 0.9,
+            "scaleY": 0.9
+        },
+        {
+            "type": "Ellipse",
+            "id": "f8c28a9c-f8a7-4d54-905c-7fe71c086e85",
+            "label": "ellipse_2",
+            "x": 147,
+            "y": 107,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 128,
+            "height": 128
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

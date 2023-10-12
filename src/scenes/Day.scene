@@ -1,0 +1,136 @@
+{
+    "id": "90b32b19-2c89-4465-8e31-a1c2b64add9e",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Day",
+        "borderWidth": 1920,
+        "borderHeight": 1080
+    },
+    "displayList": [
+        {
+            "type": "Text",
+            "id": "a497de77-5552-4705-9553-f086614bd962",
+            "label": "txt_title",
+            "x": 756,
+            "y": 248,
+            "text": "Day 선택",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "100px",
+            "color": "#000000ff"
+        },
+        {
+            "type": "Image",
+            "id": "ed7f9a74-cc5f-400d-975b-5596c07b5764",
+            "label": "btn_back",
+            "scope": "PUBLIC",
+            "texture": {
+                "key": "back"
+            },
+            "x": 143,
+            "y": 108,
+            "scaleX": 0.9,
+            "scaleY": 0.9
+        },
+        {
+            "type": "Ellipse",
+            "id": "ce717be1-20e8-43ba-ab8c-866671ed93dd",
+            "label": "ellipse_1",
+            "x": 147,
+            "y": 107,
+            "scaleX": 0.7,
+            "scaleY": 0.7,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 128,
+            "height": 128
+        },
+        {
+            "type": "Text",
+            "id": "e5f834dc-fc39-4728-b802-212508a7c2f7",
+            "label": "txt_day_1",
+            "scope": "PUBLIC",
+            "x": 881,
+            "y": 497,
+            "text": "Day 1",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff",
+            "stroke": "#1927fcff",
+            "strokeThickness": 2
+        },
+        {
+            "type": "Text",
+            "id": "c1cf0567-691c-41f7-87a0-5b244cd8460c",
+            "label": "txt_day_2",
+            "scope": "PUBLIC",
+            "x": 881,
+            "y": 679,
+            "text": "Day 2",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff",
+            "stroke": "#1927fcff",
+            "strokeThickness": 2
+        },
+        {
+            "type": "Text",
+            "id": "88d72af3-5526-4f71-9680-b95430906d7b",
+            "label": "txt_day_3",
+            "scope": "PUBLIC",
+            "x": 881,
+            "y": 872,
+            "text": "Day 3",
+            "fontFamily": "TheJamsil5Bold",
+            "fontSize": "60px",
+            "color": "#000000ff",
+            "stroke": "#1927fcff",
+            "strokeThickness": 2
+        },
+        {
+            "type": "Rectangle",
+            "id": "da322772-f879-42ca-80da-36a3c3194878",
+            "label": "rectangle",
+            "x": 965,
+            "y": 534,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 200,
+            "height": 80
+        },
+        {
+            "type": "Rectangle",
+            "id": "fd04b881-cc66-48a2-a6b0-498117ac81a5",
+            "label": "rectangle_1",
+            "x": 965,
+            "y": 717,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 200,
+            "height": 80
+        },
+        {
+            "type": "Rectangle",
+            "id": "e167d7fd-acd9-4f69-bebe-a2a989d82dcd",
+            "label": "rectangle_2",
+            "x": 965,
+            "y": 910,
+            "strokeColor": "#000000",
+            "lineWidth": 10,
+            "isStroked": true,
+            "width": 200,
+            "height": 80
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}

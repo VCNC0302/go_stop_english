@@ -1,0 +1,85 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/back.png",
+                "type": "image",
+                "key": "back"
+            },
+            {
+                "url": "assets/card_back_green.png",
+                "type": "image",
+                "key": "card_back_green"
+            },
+            {
+                "url": "assets/card_back_pink.png",
+                "type": "image",
+                "key": "card_back_pink"
+            },
+            {
+                "url": "assets/card_black.png",
+                "type": "image",
+                "key": "card_black"
+            },
+            {
+                "url": "assets/card_green.png",
+                "type": "image",
+                "key": "card_green"
+            },
+            {
+                "url": "assets/card_pink.png",
+                "type": "image",
+                "key": "card_pink"
+            },
+            {
+                "url": "assets/card_stroke_green.png",
+                "type": "image",
+                "key": "card_stroke_green"
+            },
+            {
+                "url": "assets/card_stroke_pink.png",
+                "type": "image",
+                "key": "card_stroke_pink"
+            },
+            {
+                "url": "assets/play.png",
+                "type": "image",
+                "key": "play"
+            },
+            {
+                "url": "assets/quest.json",
+                "type": "json",
+                "key": "quest"
+            },
+            {
+                "url": "assets/speaker.png",
+                "type": "image",
+                "key": "speaker"
+            },
+            {
+                "url": "assets/title.png",
+                "type": "image",
+                "key": "title"
+            },
+            {
+                "url": [
+                    "assets/video.mp4"
+                ],
+                "type": "video",
+                "key": "video"
+            },
+            {
+                "url": "assets/warning.png",
+                "type": "image",
+                "key": "warning"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
